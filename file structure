@@ -1,0 +1,21 @@
+Valley-Vibes/
+├── app/
+│   ├── page.tsx
+│   ├── layout.tsx
+│   ├── globals.css
+│   ├── dashboard/
+│   ├── discover/
+│   ├── moments/
+│   ├── messages/
+│   └── profile/
+├── components/
+├── lib/
+│   └── supabase/
+├── users
+├── supabase/
+│   └── migrations/
+├── .env.example
+├── package.json
+├── next.config.ts
+├── tsconfig.json
+└── README.md
