@@ -1,0 +1,20 @@
+                    VALLEY VIBES
+                         │
+                 ┌───────┴───────┐
+                 │               │
+              Vercel           GitHub
+                 │               │
+          Next.js App        Source Control
+                 │
+        ┌────────┴────────┐
+        │                 │
+      Server            Client
+        │                 │
+        └────────┬────────┘
+                 │
+             Supabase
+       ┌─────────┼─────────┐
+       │         │         │
+   Postgres     Auth     Realtime
+       │                   │
+    Storage            Live Events
