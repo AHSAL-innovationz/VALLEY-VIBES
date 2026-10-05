@@ -1,0 +1,25 @@
+auth.users
+    │
+    └── profiles
+          ├── profile_interests
+          ├── profile_preferences
+          ├── user_settings
+          ├── presence
+          ├── likes ────────┐
+          ├── matches       │
+          ├── conversations │
+          ├── moments       │
+          ├── meetups       │
+          ├── notifications │
+          ├── blocks        │
+          └── reports       │
+
+conversations
+    ├── conversation_members
+    └── messages
+
+moments
+    └── moment_participants
+
+meetups
+    └── meetup_members
